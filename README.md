@@ -3,12 +3,47 @@
 
 ### <p align="center"> meet our team ###
 
-<div align="center">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/er.png" width="150px">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/er.png" width="150px">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/er.png" width="150px">
-</div>
-
+<table>
+<td align="center">
+<a href="https://github.com/Erlangga-stonks">
+  <strong>Erlangga Rizal M.</strong></a>
+    <br>
+      <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="103" src="https://github.com/Erlangga-stonks/AOL-Final-Project/blob/main/Developer/Erlangga_rounded.jpg"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+<td align="center">
+<a href="https://github.com/zulhamf11">
+  <strong>Michelle Angela G.</strong></a>
+    <br>
+      <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="103" src="https://github.com/Erlangga-stonks/AOL-Final-Project/blob/main/Developer/Michelle_round.jpg"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+<td align="center">
+<a href="https://github.com/Rian105">
+  <strong>Oliver Rian S.<strong></a>
+      <br>
+        <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="103" src="https://github.com/Erlangga-stonks/AOL-Final-Project/blob/main/Developer/Rian_Rounded.jpg"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+</table>
 <tr>
-    <th float="left" width="100px">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Erlangga Rizal M. &ensp;&ensp;&ensp;&ensp; Chintya Puja &ensp;&ensp;&ensp;&ensp;&ensp; Ramadhani AA. &ensp;&ensp;&ensp;&ensp;&ensp; Baiq Mukkaromah &ensp;&ensp;&ensp; Rhemzy Putra M.</th>
-</tr>
+
+
+
