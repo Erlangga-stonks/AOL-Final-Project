@@ -20,7 +20,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
 </td>
 <td align="center">
-<a href="https://github.com/zulhamf11">
+<a href="https://github.com/MichelleAG27">
   <strong>Michelle Angela G.</strong></a>
     <br>
       <br>
